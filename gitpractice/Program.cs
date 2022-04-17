@@ -9,8 +9,11 @@ namespace gitpractice
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Uc1 code");
+
+            Console.WriteLine("my name is puja");
         }
+
 
     }
 }
