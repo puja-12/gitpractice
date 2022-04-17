@@ -10,6 +10,7 @@ namespace gitpractice
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Uc1 code");
+            Console.WriteLine("Uc2 code");
 
             Console.WriteLine("my name is puja");
         }
